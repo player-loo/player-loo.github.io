@@ -47,7 +47,7 @@ body {
 .w3l-left-side {
     flex-basis: 500px;
 	min-height: 500px;
-	background: rgba(16, 16, 16, 0.73);
+	background: #930010;
 	box-sizing:	border-box;
 	border: 20px solid #839;
 }
@@ -68,13 +68,13 @@ ul.dropdown-menu6 li p{
 	width:100%;
 }
 span.amount{
-	color:#ffffff;
+	color:#930010;;
 	font-size:16px;
 }
 .filter-price input#amount,.filter-price input#amount1 {
     font-size: 18px;
     outline: none;
-    background: none;
+    background: #930010;
     word-spacing: 1em;
     color: #000 !important;
     position: absolute;
@@ -92,7 +92,7 @@ ul.dropdown-menu6 li a {
 	border-bottom: 1px solid #e5e3db; 
 }
 .filter-price h3 {
-    color: #ff4c4c;
+    color: #930010;
     text-transform: capitalize;
     font-size: 1.2em;
 }
@@ -143,7 +143,7 @@ ul.dropdown-menu6 li a {
     color: #000;
 }
 .w3l-signin:hover,.w3l-signup:hover{
-    background: #9bebef;
+    background: #930010;
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
 	-o-transition: 0.5s ease-in;
@@ -168,7 +168,7 @@ ul.dropdown-menu6 li a {
     font-size: 16px;
     border: none;
     outline: none;
-    background-color: #05c2f9;
+    background-color: #930010;
     color: #FFF;
     cursor: pointer;
 	font-family: 'Montserrat Alternates', sans-serif;
@@ -250,7 +250,7 @@ footer a{
 .w3-user span .fa, .w3-psw span .fa{
     font-size: 16px;
     float: left;
-    background: #5fd058d6;
+    background: #930010;
     color: #fff;
     text-align: center;
     width: 15%;
@@ -286,7 +286,7 @@ span a {
     outline: none;
 	color: #fff;
     cursor: pointer;
-	background: #5fd058d6;
+	background:#930010;
 	font-family: 'Montserrat Alternates', sans-serif;
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
@@ -364,7 +364,7 @@ span a {
 .w3-user span .fa, .w3-psw span .fa,.w3-cpsw .fa,.w3-email i.fa.fa-envelope{
     font-size: 16px;
     float: left;
-    background: #5fd058d6;
+    background: #930010;
     color: #fff;
     text-align: center;
     width: 15%;
@@ -400,7 +400,7 @@ span a {
     outline: none;
 	color: #fff;
     cursor: pointer;
-	background: #5fd058d6;
+	background: #930010;
 	font-family: 'Montserrat Alternates', sans-serif;
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
@@ -410,7 +410,7 @@ span a {
 }
 .w3l-submit input[type="submit"]:hover{
 	border: 2px solid #fff;
-	background: #033127;
+	background: #930010;
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
 	-o-transition: 0.5s ease-in;
